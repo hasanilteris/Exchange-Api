@@ -1,6 +1,5 @@
 const api_key = "b5b46254852c53749eff4251";
 const url = "https://v6.exchangerate-api.com/v6/" + api_key;
-
 const currency_one = document.getElementById("currency_one");
 const currency_two = document.getElementById("currency_two");
 const list_one = document.getElementById("list_one");
