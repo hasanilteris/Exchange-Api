@@ -8,6 +8,7 @@ const amount = document.getElementById("amount");
 const calculate = document.getElementById("calculate");
 const result = document.getElementById("result");
 
+
 fetch(url + "/codes")
     .then(res => res.json())
     .then(data => {
