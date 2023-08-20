@@ -1,3 +1,3 @@
 # exchange_api
 
-Javascript ile Api kullanarak Döviz Kuru hesaplama uygulaması
+## Javascript ile Api kullanarak Döviz Kuru hesaplama uygulaması
