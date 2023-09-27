@@ -1,3 +1,3 @@
-# exchange_api
+## Exchange Rate Calculator
 
-## Javascript ile Api kullanarak Döviz Kuru hesaplama uygulaması
+#### A currency exchange rate calculator application using JavaScript and an API for real-time data.
